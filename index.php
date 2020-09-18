@@ -16,7 +16,7 @@
 
 		<h2>Games:</h2>
 		<ul>
-			<li><a href="/Games/Beam/Page.php">Beam</a></li>
+			<li><a href="/Games/Beam/page.php">Beam</a></li>
 			<li><a href="/Games/ChristmasPanic/page.php">Christmas Panic</a></li>
 		</ul>
 
